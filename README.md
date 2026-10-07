@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Technical-Q-A-Community"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Technical-Q-A-Community?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Technical-Q-A-Community"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Technical-Q-A-Community?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Technical-Q-A-Community/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Technical-Q-A-Community?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Technical-Q-A-Community/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Technical-Q-A-Community?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -69,43 +69,43 @@ Welcome to the ultimate curated directory of **technical Q&A communities**, **op
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[Discourse](https://github.com/discourse/discourse)** [![Stars](https://img.shields.io/github/stars/discourse/discourse?style=social&color=white)](https://github.com/discourse/discourse/stargazers)  
-  **The leading open-source community forum platform**, GPL-2.0 licensed. **42,000+ GitHub stars**. Features real-time notifications, trust levels, mailing list mode, and Docker-based deployment. Used by Docker, GitHub, and thousands of tech communities. 💬
+  **The leading open-source community forum platform**, GPL-2.0 licensed. **42,000+ GitHub_Stars**. Features real-time notifications, trust levels, mailing list mode, and Docker-based deployment. Used by Docker, GitHub, and thousands of tech communities. 💬
 
 - **[Forem](https://github.com/forem/forem)** [![Stars](https://img.shields.io/github/stars/forem/forem?style=social&color=white)](https://github.com/forem/forem/stargazers)  
-  **Open-source software powering DEV.to**, AGPL-3.0 licensed. **22,500+ GitHub stars**. Built with Ruby on Rails, supporting posts, discussions, podcasts, and community feeds. 📝
+  **Open-source software powering DEV.to**, AGPL-3.0 licensed. **22,500+ GitHub_Stars**. Built with Ruby on Rails, supporting posts, discussions, podcasts, and community feeds. 📝
 
 - **[Flarum](https://github.com/flarum/flarum)** [![Stars](https://img.shields.io/github/stars/flarum/flarum?style=social&color=white)](https://github.com/flarum/flarum/stargazers)  
-  **Delightfully simple open-source forum software**, MIT licensed. **16,200+ GitHub stars**. Lightweight PHP & Mithril.js architecture with modern UI and extension system. ✨
+  **Delightfully simple open-source forum software**, MIT licensed. **16,200+ GitHub_Stars**. Lightweight PHP & Mithril.js architecture with modern UI and extension system. ✨
 
 - **[NodeBB](https://github.com/NodeBB/NodeBB)** [![Stars](https://img.shields.io/github/stars/NodeBB/NodeBB?style=social&color=white)](https://github.com/NodeBB/NodeBB/stargazers)  
-  **Node.js community forum software**, GPL-3.0 licensed. **14,500+ GitHub stars**. Real-time streaming, webhooks, and modern responsive design. 🟢
+  **Node.js community forum software**, GPL-3.0 licensed. **14,500+ GitHub_Stars**. Real-time streaming, webhooks, and modern responsive design. 🟢
 
 - **[Lemmy](https://github.com/LemmyNet/lemmy)** [![Stars](https://img.shields.io/github/stars/LemmyNet/lemmy?style=social&color=white)](https://github.com/LemmyNet/lemmy/stargazers)  
-  **Federated forum & link aggregator**, AGPL-3.0 licensed. **12,800+ GitHub stars**. Written in Rust using ActivityPub protocol for decentralized discussion. 🐭
+  **Federated forum & link aggregator**, AGPL-3.0 licensed. **12,800+ GitHub_Stars**. Written in Rust using ActivityPub protocol for decentralized discussion. 🐭
 
 - **[Answer](https://github.com/apache/incubator-answer)** [![Stars](https://img.shields.io/github/stars/apache/incubator-answer?style=social&color=white)](https://github.com/apache/incubator-answer/stargazers)  
-  **Apache Incubator Q&A platform**, Apache-2.0 licensed. **12,200+ GitHub stars**. Modern Go & React architecture designed specifically for developer teams and communities. ❓
+  **Apache Incubator Q&A platform**, Apache-2.0 licensed. **12,200+ GitHub_Stars**. Modern Go & React architecture designed specifically for developer teams and communities. ❓
 
 - **[Vanilla Forums OS](https://github.com/vanilla/vanilla)** [![Stars](https://img.shields.io/github/stars/vanilla/vanilla?style=social&color=white)](https://github.com/vanilla/vanilla/stargazers)  
-  **Flexible open-source multi-forum platform**, GPL-2.0 licensed. **5,600+ GitHub stars**. Proven PHP forum framework with plugin extensibility. 🍦
+  **Flexible open-source multi-forum platform**, GPL-2.0 licensed. **5,600+ GitHub_Stars**. Proven PHP forum framework with plugin extensibility. 🍦
 
 - **[Question2Answer](https://github.com/q2a/question2answer)** [![Stars](https://img.shields.io/github/stars/q2a/question2answer?style=social&color=white)](https://github.com/q2a/question2answer/stargazers)  
-  **Classic open-source Stack Overflow clone**, GPL-2.0 licensed. **2,500+ GitHub stars**. PHP/MySQL Q&A framework with voting, tags, and badges. 🏛️
+  **Classic open-source Stack Overflow clone**, GPL-2.0 licensed. **2,500+ GitHub_Stars**. PHP/MySQL Q&A framework with voting, tags, and badges. 🏛️
 
 - **[Talkyard](https://github.com/debiki/talkyard)** [![Stars](https://img.shields.io/github/stars/debiki/talkyard?style=social&color=white)](https://github.com/debiki/talkyard/stargazers)  
-  **Combined forum, chat, and Q&A engine**, AGPL-3.0 licensed. **2,100+ GitHub stars**. Embedded discussions for documentation and sites. 💭
+  **Combined forum, chat, and Q&A engine**, AGPL-3.0 licensed. **2,100+ GitHub_Stars**. Embedded discussions for documentation and sites. 💭
 
 - **[Scoold](https://github.com/Erudika/scoold)** [![Stars](https://img.shields.io/github/stars/Erudika/scoold?style=social&color=white)](https://github.com/Erudika/scoold/stargazers)  
-  **Lightweight Java Q&A platform**, Apache-2.0 licensed. **1,600+ GitHub stars**. Stack Overflow alternative built on top of Para backend. ☕
+  **Lightweight Java Q&A platform**, Apache-2.0 licensed. **1,600+ GitHub_Stars**. Stack Overflow alternative built on top of Para backend. ☕
 
 - **[Codidact](https://github.com/codidact/core)** [![Stars](https://img.shields.io/github/stars/codidact/core?style=social&color=white)](https://github.com/codidact/core/stargazers)  
-  **Community-built Q&A platform**, AGPL-3.0 licensed. **850+ GitHub stars**. Open-source Q&A community focused on transparent governance. 🌐
+  **Community-built Q&A platform**, AGPL-3.0 licensed. **850+ GitHub_Stars**. Open-source Q&A community focused on transparent governance. 🌐
 
 - **[Askbot](https://github.com/ASKBOT/askbot-devel)** [![Stars](https://img.shields.io/github/stars/ASKBOT/askbot-devel?style=social&color=white)](https://github.com/ASKBOT/askbot-devel/stargazers)  
-  **Django-based Q&A forum software**, GPL-3.0 licensed. **750+ GitHub stars**. Python Q&A system with customizable templates. 🐍
+  **Django-based Q&A forum software**, GPL-3.0 licensed. **750+ GitHub_Stars**. Python Q&A system with customizable templates. 🐍
 
 ---
 
@@ -115,7 +115,7 @@ Contributions are welcome! Follow these steps to submit new Q&A community platfo
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries maintaining markdown structure and formatting.
-3. 🔗 Include official link, star badge, license, starting pricing, and clear description.
+3. 🔗 Include official link, Stars_Badge, license, starting pricing, and clear description.
 4. 🚀 Submit a **Pull Request** with a concise summary.
 
 ---
@@ -139,7 +139,7 @@ If you find this technical Q&A community resource valuable, please consider supp
 ## ⚠️ Disclaimer
 
 - This list is **community-curated** for educational & comparison purposes. ℹ️
-- Pricing, valuations, and star counts are updated periodically.
+- Pricing, valuations, and Stars_Counts are updated periodically.
 - For self-hosted open-source software, factor in infrastructure, security, and maintenance costs.
 
 ---
